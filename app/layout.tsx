@@ -11,7 +11,7 @@ export default function RootLayout({
         <h1>PAGINA DE ENSAYO</h1>
         {children}
         <footer className="flex items-center justify-center py-10">
-          hecho por cristian trilleras
+          hecho por Cristian Trilleras y Sebastian Parada
         </footer>
       </body>
     </html>
